@@ -1,4 +1,4 @@
-# TechNotes Backend
+# TechNotes API
 
 The TechNotes Backend is a Node.js/Express API built as part of the TechNotes MERN application, providing secure user authentication, role-based authorization, and full CRUD functionality for users and notes.
 This backend has been fully converted to **TypeScript** for improved type safety and maintainability.
